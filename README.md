@@ -36,34 +36,20 @@ Computer Engineering @ UCASAL · Salta, Argentina. Looking for a **full-remote**
 
 ### Selected work
 
-<a href="https://github.com/Jehp23/ink-risk-intelligence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=ink-risk-intelligence&theme=tokyonight&hide_border=true" alt="Ink" /></a>
-<a href="https://github.com/Jehp23/quantlab-front"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=quantlab-front&theme=tokyonight&hide_border=true" alt="QuantLab" /></a>
-<a href="https://github.com/Jehp23/avax-compliance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=avax-compliance&theme=tokyonight&hide_border=true" alt="Cello" /></a>
-<a href="https://github.com/Jehp23/InforMed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=InforMed&theme=tokyonight&hide_border=true" alt="InforMed" /></a>
-<a href="https://github.com/Jehp23/saltaviva"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=saltaviva&theme=tokyonight&hide_border=true" alt="Salta Viva" /></a>
-<a href="https://github.com/Jehp23/apptorneo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jehp23&repo=apptorneo&theme=tokyonight&hide_border=true" alt="apptorneo" /></a>
+<a href="https://github.com/Jehp23/ink-risk-intelligence"><img src="cards/ink.png" alt="Ink" /></a>
+<a href="https://github.com/Jehp23/quantlab-front"><img src="cards/quantlab.png" alt="QuantLab" /></a>
+<a href="https://github.com/Jehp23/avax-compliance"><img src="cards/cello.png" alt="Cello" /></a>
+<a href="https://github.com/Jehp23/InforMed"><img src="cards/informed.png" alt="InforMed" /></a>
+<a href="https://github.com/Jehp23/saltaviva"><img src="cards/saltaviva.png" alt="Salta Viva" /></a>
+<a href="https://github.com/Jehp23/apptorneo"><img src="cards/apptorneo.png" alt="apptorneo" /></a>
 
-| Project | What it is | Live |
-| :--- | :--- | :--- |
-| **Ink** | Smart-contract risk analyzer for Avalanche (score 0-100 + plain-language AI) | [demo](https://ink-three-iota.vercel.app) |
-| **QuantLab** | Quant research: VaR, Monte Carlo, efficient frontier, BYMA options | [demo](https://quantlab2.vercel.app) |
-| **Cello** | Private institutional payments on Avalanche (eERC20) | [demo](https://cello-avax.vercel.app) |
-| **InforMed** | Verifiable clinical history on Arkiv · Puna Tech 2026 | [demo](https://infor-med.vercel.app) |
-| **Salta Viva** | Live urban agenda: map + AI + events · Puna Tech 2026 | — |
-| **EstacionaSalta** | Measured parking for Salta · 1st place, City Track | [demo](https://estacionasalta.vercel.app) |
-
-</div>
-
----
-
-<div align="center">
-
-### GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jehp23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jehp23&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-
-<img src="https://streak-stats.demolab.com?user=Jehp23&theme=tokyonight&hide_border=true" alt="streak" />
+| Project | Live |
+| :--- | :--- |
+| [Ink](https://github.com/Jehp23/ink-risk-intelligence) | [demo](https://ink-three-iota.vercel.app) |
+| [QuantLab](https://github.com/Jehp23/quantlab-front) | [demo](https://quantlab2.vercel.app) |
+| [Cello](https://github.com/Jehp23/avax-compliance) | [demo](https://cello-avax.vercel.app) |
+| [InforMed](https://github.com/Jehp23/InforMed) | [demo](https://infor-med.vercel.app) |
+| [EstacionaSalta](https://estacionasalta.vercel.app/) · 1st, City Track | [demo](https://estacionasalta.vercel.app) |
 
 </div>
 
