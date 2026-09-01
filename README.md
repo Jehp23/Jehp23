@@ -2,15 +2,9 @@
 
 <img src="banner.png" alt="Luciano Lazarte" width="100%" />
 
-<br />
-
 <a href="https://www.linkedin.com/in/lucianolazarte23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://lucianolazarte.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:lazarteluciano23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%C2%B7+Fintech;React+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+GraphQL;Building+products+people+actually+use" alt="typing" />
 
 </div>
 
